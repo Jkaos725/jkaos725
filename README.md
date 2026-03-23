@@ -23,6 +23,7 @@
  - AI Tools
 
 📫 How to reach me: jkaos0725@gmail.com
+
 ⚡ Fun facts:
  - I self learning Blender 3D modeling
  - I 3D print
