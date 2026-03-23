@@ -25,7 +25,7 @@ I am a Computer Science student at Lindenwood University
 
 📫 How to reach me: 
  - Email: <a href="mailto:jkaos0725@gmail.com">jkaos0725@gmail.com</a>
- - Discord: <a href="[https:discordapp.com](https://discord.com/users/864652320498909184)">jkaos0725</a>
+ - Discord: <a href="https://discord.com/users/864652320498909184">jkaos0725</a>
  - LinkedIN: <a href="https://www.linkedin.com/in/jacob-butterhorn-b7793929b/">Jacob Butterhorn</a>
 
 ⚡ Fun facts:
