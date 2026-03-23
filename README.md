@@ -1,5 +1,6 @@
-## Hello! 👋
-# My name is Jacob
+## Hello! 👋 My name is Jacob
+
+I am a Computer Science student at Lindenwood University
 
 🔭 I’m currently working on: 
  - AI chatbot with MCP server and Skills
@@ -25,6 +26,7 @@
 📫 How to reach me: 
  - Email: jkaos0725@gmail.com
  - Discord: jkaos0725
+ - [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/radhika-malpani-30832b22a/)]([https://www.linkedin.com/in/radhika-malpani-30832b22a/](https://www.linkedin.com/in/jacob-butterhorn-b7793929b/))
 
 ⚡ Fun facts:
  - I self learning Blender 3D modeling
