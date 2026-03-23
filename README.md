@@ -1,7 +1,10 @@
 ## Hello! 👋
 # My name is Jacob
 
-🔭 I’m currently working on an AI chatbot with MCP server and Skills
+🔭 I’m currently working on: 
+ - AI chatbot with MCP server and Skills
+ - Dream Unity Game
+ - College CS Degree
 
 🌱 I’m currently learning:
  - React
