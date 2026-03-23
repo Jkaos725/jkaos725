@@ -22,7 +22,9 @@
  - Unity
  - AI Tools
 
-📫 How to reach me: jkaos0725@gmail.com
+📫 How to reach me: 
+ - Email: jkaos0725@gmail.com
+ - Discord: jkaos0725
 
 ⚡ Fun facts:
  - I self learning Blender 3D modeling
