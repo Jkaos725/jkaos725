@@ -24,9 +24,9 @@ I am a Computer Science student at Lindenwood University
  - AI Tools
 
 📫 How to reach me: 
- - Email: jkaos0725@gmail.com
- - Discord: jkaos0725
- - 
+ - Email: <a href="mailto:jkaos0725@gmail.com">jkaos0725@gmail.com</a>
+ - Discord: <a href="discordapp.com/users/864652320498909184">jkaos0725</a>
+ - LinkedIN: <a href="(https://www.linkedin.com/in/jacob-butterhorn-b7793929b/)">Jacob Butterhorn</a>
 
 ⚡ Fun facts:
  - I self learning Blender 3D modeling
