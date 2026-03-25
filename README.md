@@ -12,6 +12,7 @@ I am a Computer Science student at Lindenwood University
  - assistant-ui
  - Mastra
  - Networking
+
 🤔 I’m looking for help with:
  - Teach people learning to Code
  - Tools to make MCP server and clients easier
